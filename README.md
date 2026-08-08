@@ -5,6 +5,17 @@ A content-based movie recommender built with Streamlit, enriched with live data 
 > Pick a movie you like → get similarity-based recommendations, trailers, cast info, and where to stream — or just describe (or say out loud) what you're in the mood for.
 
 ---
+## HomePage
+
+![CineMatch homepage](assets/Homepage.png)
+
+## Movies Page
+
+![CineMatch homepage](assets/Movies.png)
+
+## Details
+
+![CineMatch homepage](assets/Details.png)
 
 ## ✨ Features
 
@@ -34,6 +45,10 @@ A content-based movie recommender built with Streamlit, enriched with live data 
 | Deployment        | [Render](https://render.com) |
 
 ---
+
+## Login Page
+
+![CineMatch homepage](assets/LoginPage.png)
 
 ## 📁 Project Structure
 
