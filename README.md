@@ -48,7 +48,7 @@ A content-based movie recommender built with Streamlit, enriched with live data 
 
 ## Login Page
 
-![CineMatch homepage](assets/LoginPage.png)
+![CineMatch homepage](assets/Loginpage.png)
 
 ## 📁 Project Structure
 
